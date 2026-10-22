@@ -1,4 +1,4 @@
-# Landing Page Concept 02 — Dark Digital Studio
+# Landing Page Concept 01 — Dark Digital Studio
 
 A fictional portfolio landing page built with HTML, CSS, and JavaScript. It uses a dark editorial style, lime accents, abstract CSS artwork, and responsive project cards.
 
